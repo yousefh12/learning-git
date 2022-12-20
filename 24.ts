@@ -12,7 +12,7 @@ for (let i = 0;i<=n; i++) {
   do { 
     T[i]=Number(prompt('remplir la case du  tableau'+i)) 
   } while (T[i]<0); 
-  s=s+T[i];
+  s=s+T[i]; 
 }
 
  
